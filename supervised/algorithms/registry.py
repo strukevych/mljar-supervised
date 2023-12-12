@@ -77,3 +77,4 @@ import supervised.algorithms.nn
 # Import algorithm to be registered
 import supervised.algorithms.random_forest
 import supervised.algorithms.xgboost
+import supervised.algorithms.svm
